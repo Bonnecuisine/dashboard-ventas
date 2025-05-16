@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "Versión inicial del Dashboard"
+git commit -m Versión inicial del Dashboard
 git branch -M main
 git remote add origin https://github.com/Bonnecuisine/dashboard-ventas.git
 git push -u origin main --force
